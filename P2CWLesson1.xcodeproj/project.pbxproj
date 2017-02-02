@@ -13,6 +13,7 @@
 		AC90889C1E435E3E00963AC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC90889A1E435E3E00963AC7 /* Main.storyboard */; };
 		AC90889E1E435E3E00963AC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC90889D1E435E3E00963AC7 /* Assets.xcassets */; };
 		AC9088A11E435E3E00963AC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC90889F1E435E3E00963AC7 /* LaunchScreen.storyboard */; };
+		AC9088A91E435EDC00963AC7 /* Снимок экрана 2017-01-30 в 19.31.40.png in Resources */ = {isa = PBXBuildFile; fileRef = AC9088A81E435EDC00963AC7 /* Снимок экрана 2017-01-30 в 19.31.40.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AC90889D1E435E3E00963AC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC9088A01E435E3E00963AC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC9088A21E435E3E00963AC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC9088A81E435EDC00963AC7 /* Снимок экрана 2017-01-30 в 19.31.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2017-01-30 в 19.31.40.png"; path = "../../../../../../../Снимок экрана 2017-01-30 в 19.31.40.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				AC9088981E435E3E00963AC7 /* ViewController.m */,
 				AC90889A1E435E3E00963AC7 /* Main.storyboard */,
 				AC90889D1E435E3E00963AC7 /* Assets.xcassets */,
+				AC9088A81E435EDC00963AC7 /* Снимок экрана 2017-01-30 в 19.31.40.png */,
 				AC90889F1E435E3E00963AC7 /* LaunchScreen.storyboard */,
 				AC9088A21E435E3E00963AC7 /* Info.plist */,
 				AC9088911E435E3E00963AC7 /* Supporting Files */,
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC9088A91E435EDC00963AC7 /* Снимок экрана 2017-01-30 в 19.31.40.png in Resources */,
 				AC9088A11E435E3E00963AC7 /* LaunchScreen.storyboard in Resources */,
 				AC90889E1E435E3E00963AC7 /* Assets.xcassets in Resources */,
 				AC90889C1E435E3E00963AC7 /* Main.storyboard in Resources */,
@@ -273,6 +277,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = P2CWLesson1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Alex-Ray-Prog.P2CWLesson1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -284,6 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = P2CWLesson1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Alex-Ray-Prog.P2CWLesson1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
